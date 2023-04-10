@@ -1,0 +1,5 @@
+[user]
+	email = linux.rose@icloud.com
+	name = mygit
+[init]
+	defaultBranch = mygit
